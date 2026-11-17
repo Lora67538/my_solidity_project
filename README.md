@@ -1,1 +1,0 @@
-# my_solidity_project
